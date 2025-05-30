@@ -10,7 +10,7 @@ There is no absolute time limit and we won't judge you on how long it took you t
 
 - Use version control
 - Please use latest **React** for this project
-- Use Typescript
+- Use **Typescript**
 - Use **Ant Design** or  **Shadcn/ui with Tailwind**.
 - You are not required to use a state management library.
 - Use any toolchain you wish, but make sure you provide a **README** so we know how to run your app.
